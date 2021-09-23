@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ivansmb11
+- 👀 I’m interested in programming, videogames, cryptomining, and computer hardware.
+- 🌱 I’m currently learning C/C++, Java, Python, SQL...
+- 📫 How to reach me:
+    - +52 (667) 125 34 25
+    - ismb9@hotmail.com
+    - @ivannsmb on twitter/instagram
