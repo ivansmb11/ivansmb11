@@ -2,7 +2,7 @@
 - 📗 Estudio Ingeniería en Informática y Negocios Digitales en la Universidad Anáhuac campus Querétaro 🦁.
 - 💻 Actualmente desarrollo en los siguientes lenguajes:
 
-    - C/C++ 0⃣1⃣1⃣0⃣0⃣1⃣0⃣0⃣
+    - C/C++ 0⃣ 1⃣ 1⃣ 0⃣ 0⃣ 1⃣ 0⃣ 0⃣
     - Java ☕
     - Python 🐍
     - SQL 🔋
