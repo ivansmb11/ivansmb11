@@ -9,6 +9,7 @@
     - HTML5 🖥️
     - CSS3 🖌️
     - JavaScript (Node.js, web) ☕🗒️
+    - Vue.js
 
 - 📫 Contacto:
     - +52 (667) 125 34 25
