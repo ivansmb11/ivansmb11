@@ -17,7 +17,7 @@ Contact:
 - +52 (667) 125 34 25
 - ismb9@hotmail.com
 - ivan.mendoza32@anahuac.mx
-- @ivannsmb en twitter/instagram
+- @ivannsmb twitter/instagram
 
 Interests:
 - Blockchain Technology
