@@ -24,7 +24,7 @@
     - 🖥️ Computer Hardware
 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivansmb11&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivansmb11&layout=compact&hide_border=true&theme=gotham&hide=Jupyter Notebook,SCSS,Less,Handlebars&langs_count=6)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivansmb11&show_icons=true&theme=gotham&locale=en&layout=compact&hide_border=true&theme=radical&hide=Jupyter Notebook,SCSS,Less,Handlebars&langs_count=6" alt="ivansmb11" align = "center"/>
 
