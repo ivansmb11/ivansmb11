@@ -27,3 +27,5 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivansmb11&theme=dark" width="48%" >
 
+<img src="https://github-readme-stats.vercel.app/api?username=ivansmb11&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+
