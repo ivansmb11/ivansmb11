@@ -26,8 +26,8 @@
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivansmb11&show_icons=true&locale=en&layout=compact&hide_border=true&theme=gotham&hide=Jupyter Notebook,CSS,SCSS,HTML,Less,Handlebars&langs_count=6" alt="ivansmb11" width="48%" align = "left"/>
-
+<br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivansmb11&theme=gotham&hide_border=true" alt="ivansmb11" width="48%" align = "left" >
-
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=ivansmb11&show_icons=true&theme=gotham&hide_border=true" alt="ivansmb11" width="48%" align = "left"/>
 
