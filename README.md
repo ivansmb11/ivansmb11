@@ -2,14 +2,15 @@
 - 📗 Estudio Ingeniería en Informática y Negocios Digitales en la Universidad Anáhuac campus Querétaro 🦁.
 - 💻 Actualmente desarrollo en los siguientes lenguajes:
 
-    - C/C++ 0⃣ 1⃣ 1⃣ 0⃣ 0⃣ 1⃣ 0⃣ 0⃣
+    - JavaScript (Node.js, web) ☕🗒️
+    - Vue.js 🟢
     - Java ☕
     - Python 🐍
     - SQL 🔋
     - HTML5 🖥️
-    - CSS3 🖌️
-    - JavaScript (Node.js, web) ☕🗒️
-    - Vue.js 🟢
+    - CSS3, Bootstrap 🖌️
+    - C/C++ 0⃣ 1⃣ 1⃣ 0⃣ 0⃣ 1⃣ 0⃣ 0⃣
+
 
 - 📫 Contacto:
     - +52 (667) 125 34 25
