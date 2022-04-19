@@ -23,5 +23,3 @@
     - 🖥️ Computer Hardware
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivansmb11&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&hide=Jupyter Notebook,SCSS,Less,Handlebars&langs_count=6" alt="ivansmb11" align = "center"/></p>
-
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivansmb11&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="ivansmb11" align = "center"/>
