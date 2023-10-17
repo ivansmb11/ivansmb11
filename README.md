@@ -1,15 +1,17 @@
 - 👋 Hola, mi nombre es Iván Mendoza
-- 📗 Estudio Ingeniería en Informática y Negocios Digitales en la Universidad Anáhuac campus Querétaro 🦁.
+- 📗 Soy Lic. en Ingeniería en Informática y Negocios Digitales en la Universidad Anáhuac campus Querétaro 🦁.
 - 💻 Actualmente desarrollo con las siguientes tecnologías:
 
     - JavaScript (Node.js, web) ☕🗒️
+    - React ⚛️
+    - React Native ⚛️
     - Vue.js 🟢
-    - Java ☕
+    - Java Spring Boot ☕
     - Python 🐍
     - SQL 🔋
     - MongoDB 🍃
     - HTML5 🖥️
-    - CSS3, Bootstrap 🖌️
+    - CSS3, Bootstrap, TailwindCSS 🖌️
     - C/C++ 0⃣ 1⃣ 1⃣ 0⃣ 0⃣ 1⃣ 0⃣ 0⃣
 
 
